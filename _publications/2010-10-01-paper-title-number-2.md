@@ -6,8 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '自制多肉植物的模型'
 date: 2022-6-01
 venue: 'Feb 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'https://s21.ax1x.com/2024/10/23/pAdIkSU.jpg'
+paperurl: 'https://s21.ax1x.com/2024/10/23/pAdIVOJ.jpg'
 citation: '张泽扬,(2022).'
 ---
 
