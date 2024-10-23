@@ -4,7 +4,7 @@ collection: publications
 category: models
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '自制猫咪趴着的模型'
-date: '2022'
+date: '2022-10-1'
 venue: 'Journal 1'
 slidesurl: 'https://s21.ax1x.com/2024/10/23/pAd5lrj.jpg'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
