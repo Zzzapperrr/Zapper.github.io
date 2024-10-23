@@ -3,7 +3,7 @@ title: "猫咪模型"
 collection: publications
 category: models
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '自制猫咪趴着的模型'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
