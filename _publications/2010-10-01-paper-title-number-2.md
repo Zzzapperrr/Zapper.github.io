@@ -1,7 +1,7 @@
 ---
 title: "猫咪模型"
 collection: publications
-category: models
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '自制猫咪趴着的模型'
 date: 2022-10-01
