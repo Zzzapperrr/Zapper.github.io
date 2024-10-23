@@ -1,14 +1,14 @@
 ---
-title: "猫咪模型"
+title: "多肉植物模型"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '自制猫咪趴着的模型'
-date: 2022-10-01
-venue: 'Journal 1'
+excerpt: '自制多肉植物的模型'
+date: 2022-6-01
+venue: 'Feb 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: '张泽扬, You. (2022). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: '张泽扬,(2022).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+这是一个多肉植物模型。图像中展示了一个简单的多肉植物插在一个花盆里。多肉植物的叶片呈现出层叠的形状，花盆是一个简单的圆柱形。
