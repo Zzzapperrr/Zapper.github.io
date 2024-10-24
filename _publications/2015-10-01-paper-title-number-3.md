@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '自制化妆盒的模型。'
 date: 2023-10-01
 venue: 'Unknown'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: 'https://s21.ax1x.com/2024/10/24/pAwel6K.png'
+paperurl: 'https://s21.ax1x.com/2024/10/24/pAwe1OO.png'
 citation: '张泽扬. (2023).'
 ---
 
