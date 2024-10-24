@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: '自制来着小说斗罗大陆的佛怒唐莲建模'
 date: 2023-02-17
 venue: 'Oct 15'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://s21.ax1x.com/2024/10/24/pAweG0e.png'
 citation: '张泽扬. (2023).'
 ---
 
