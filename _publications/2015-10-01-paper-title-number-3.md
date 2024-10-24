@@ -1,14 +1,14 @@
 ---
-title: "猫咪模型"
+title: "化妆盒"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '自制猫咪趴着的模型。'
-date: 2022-10-01
+excerpt: '自制化妆盒的模型。'
+date: 2023-10-01
 venue: 'Unknown'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: '张泽扬. (2023).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+这个建模的化妆盒是一个打开的盒子，展示出其内部结构。盒子的外部是青绿色，内部是粉红色。盒盖内侧有一个小镜子，镜子周围有一个灰色的边框。盒子的内部被分成了九个小隔间，每个隔间都是正方体。上方有一个胶囊形状的凹槽，可能用于放置化妆刷或其他细长的化妆工具。整个设计简洁现代，颜色搭配柔和，适合用于存放和整理化妆品。
